@@ -1,0 +1,10 @@
+<resources>
+    <!--Login/Registration-->
+    <string name="app_name">ProjectLogin</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="reenter_password">re-enter password</string>
+    <string name="sign_in_button">sign in</string>
+    <string name="sign_up_button">sign up</string>
+
+</resources>
