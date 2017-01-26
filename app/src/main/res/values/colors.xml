@@ -3,4 +3,13 @@
     <color name="colorPrimary">#000000</color>
     <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--Intro Slides-->
+    <color name="color_background_slide_1">#40945c</color>
+    <color name="color_background_slide_2">#757cda</color>
+    <color name="color_background_slide_3">#867a83</color>
+    <color name="color_background_slide_4">#529121</color>
+
+    <color name="dot_inactive">#ffffff</color>
+    <color name="dot_active">#ead42c</color>
 </resources>
