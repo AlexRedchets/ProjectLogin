@@ -1,7 +1,9 @@
-package com.alexredchets.projectlogin;
+package com.alexredchets.projectlogin.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.alexredchets.projectlogin.R;
 
 public class SignUpActivity extends AppCompatActivity {
 

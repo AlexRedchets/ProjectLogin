@@ -1,10 +1,12 @@
-package com.alexredchets.projectlogin;
+package com.alexredchets.projectlogin.ui;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+
+import com.alexredchets.projectlogin.R;
 
 import butterknife.ButterKnife;
 import butterknife.OnClick;
